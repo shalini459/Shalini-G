@@ -19,10 +19,10 @@ Motivated Computer Science Engineering student passionate about Full Stack Devel
 **Sri Balaji Chockalingam Engineering College, Arni**
 
 ### 📖 Higher Secondary (Class XII) (2022)
-**KGB Mari Matriculation Higher Secondary School, Vellore**
+**KKS Mani Matriculation Higher Secondary School**
 
 ### 📖 SSLC (Class X) (2020)
-**Don Bosco Matriculation Higher Secondary School, Katpadi**
+**Don Bosco Matriculation Higher Secondary School**
 
 ---
 
@@ -33,10 +33,7 @@ Motivated Computer Science Engineering student passionate about Full Stack Devel
 <p>
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/C-green?style=for-the-badge&logo=c">
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
 </p>
 
 ---
@@ -84,25 +81,31 @@ Motivated Computer Science Engineering student passionate about Full Stack Devel
 ## 🚀 Projects
 
 ### 🏥 Hospital Management System
-**Python | Django | MySQL**
+**MySQL**
 
-Developed a complete Hospital Management System using Django following the MVC architecture. Implemented patient registration, doctor management, appointment scheduling, authentication, and CRUD operations with MySQL database integration.
+Developed a Hospital Management System using MySQL by applying RDBMS concepts, database design, ER diagrams, normalization, primary and foreign keys, joins, views, stored procedures, triggers, and CRUD operations to manage patients, doctors, appointments, and medical records.
 
 ---
 
 ### 🍽️ Restaurant Website
 **HTML | CSS | JavaScript**
 
-Designed and developed a fully responsive restaurant website with modern UI, Home, Menu, About Us, Contact pages, smooth navigation, and mobile-friendly layouts.
+Designed and developed a responsive restaurant website using HTML, CSS, and JavaScript, featuring a modern UI, responsive navigation, dynamic menu sections, contact form validation, and cross-device compatibility.
 
 ---
 
-## 📜 Training
+## 📜 Internships & Training
 
-### 🐍 Full Stack Development with Python
-**Next Gen, Vellore**
+### 📊 Python Django Developer Training — Besant Technologies, Velachery (June 2026 – Present)
 
-Completed training in Python Full Stack Development covering Python, Django, SQL, HTML, CSS, JavaScript, CRUD operations, database connectivity, and web application development.
+Completed comprehensive Python Full Stack training covering Python, Django, HTML, CSS, JavaScript, MySQL, REST APIs, database connectivity, authentication, CRUD operations, and responsive web application development. Developed a Restaurant Website using Django and MySQL with user authentication, menu management, and database-driven functionality.
+
+---
+
+### 🌐 Full Stack Development with Python — Next Gen, Vellore
+
+Completed Full Stack Development with Python training, gaining practical experience in Python, Django, SQL, HTML, CSS, JavaScript, responsive web design, and database-driven web application development through hands-on projects.
+
 
 ---
 
@@ -111,22 +114,6 @@ Completed training in Python Full Stack Development covering Python, Django, SQL
 🏆 Diploma in Hindi (Completed 3 Levels)
 
 🏆 English Junior Typing Certification
-
----
-
-## 💪 Strengths
-
-✔ Quick Learner
-
-✔ Problem Solving
-
-✔ Team Player
-
-✔ Adaptability
-
-✔ Positive Attitude
-
-✔ Willingness to Learn
 
 ---
 
@@ -166,11 +153,11 @@ Completed training in Python Full Stack Development covering Python, Django, SQL
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/shalini-g-7b69802a4/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/shalini459/Shalini-G">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
